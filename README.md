@@ -1,14 +1,10 @@
-# Blood-Bank
+# Blood-Bank:
 Blood Bank website (Frontend perspective)
 
 
-## Built with
-
+## Built with:
+# Frontend:
 * HTML - CSS - Bootstrap - Javascript
+# Database:
+* Firebase
 
-* JQuery - SwiperJs - FontAwesome
-
-
-## Screens
-
-https://www.behance.net/gallery/85230265/Blood-Bank-Website
